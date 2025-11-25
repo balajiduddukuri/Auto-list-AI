@@ -1,0 +1,5 @@
+{
+  "name": "AutoList AI",
+  "description": "An end-to-end e-commerce automation pipeline powered by Gemini. Identify trends, generate optimized listings with Vision and Text AI, and simulate marketplace publishing.",
+  "requestFramePermissions": []
+}
